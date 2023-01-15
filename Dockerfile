@@ -36,4 +36,4 @@ ENV PLAYWRIGHT_BROWSERS_PATH=/app/pw-browser
 # Copy the test file
 COPY main.py /app/main.py
 
-CMD [ "python3.10", "main.py" ]
+CMD [ "python3.10", "test_playwright.py" ]

@@ -1,4 +1,6 @@
-# Dockerfile for playwright-python on raspberry pi 4
+# Dockerfile Playwright on RP4
+
+Forked from original to keep it updated. 
 
 This dockerfile demonstrate how to install playwright-python on raspberry pi 4. 
 
